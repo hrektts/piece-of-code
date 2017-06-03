@@ -1,0 +1,6 @@
+[package]
+name = "day10-binary-numbers"
+version = "0.1.0"
+authors = ["Katsutoshi Horie <mps299792458@gmail.com>"]
+
+[dependencies]

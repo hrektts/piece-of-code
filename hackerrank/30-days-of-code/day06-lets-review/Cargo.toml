@@ -1,0 +1,6 @@
+[package]
+name = "day06-lets-review"
+version = "0.1.0"
+authors = ["Katsutoshi Horie <mps299792458@gmail.com>"]
+
+[dependencies]

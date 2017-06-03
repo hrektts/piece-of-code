@@ -1,0 +1,6 @@
+[package]
+name = "day28-regex-patterns-and-intro-to-database"
+version = "0.1.0"
+authors = ["Katsutoshi Horie <mps299792458@gmail.com>"]
+
+[dependencies]
