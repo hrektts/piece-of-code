@@ -1,0 +1,6 @@
+[package]
+name = "day00-weighted-mean"
+version = "0.1.0"
+authors = ["Katsutoshi Horie <mps299792458@gmail.com>"]
+
+[dependencies]
