@@ -1,0 +1,6 @@
+[package]
+name = "day05-poisson-distribution-2"
+version = "0.1.0"
+authors = ["Katsutoshi Horie <mps299792458@gmail.com>"]
+
+[dependencies]
