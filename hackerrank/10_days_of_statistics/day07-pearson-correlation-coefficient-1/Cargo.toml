@@ -1,0 +1,6 @@
+[package]
+name = "day07-pearson-correlation-coefficient-1"
+version = "0.1.0"
+authors = ["Katsutoshi Horie <mps299792458@gmail.com>"]
+
+[dependencies]
